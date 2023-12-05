@@ -62,22 +62,20 @@ If scripts are used in the file it can be added under stylesheets.
 
 ### Class Names
 
-Class names is a very easy topic to understand. Basically, spaces should be replaced with dashes and all text should be lowercase. There is only one exception: modular class names that are going to be used in a shared css file should be in the following format: `filename__classname` and should continue by the rule.  Although this can be used, modular css files should be prefered. This exception is mainly for smaller projects.
+Class names is a very easy topic to understand. Basically, spaces should be replaced with dashes and all text should be lowercase.
 
 #### Examples:
 ```html
 <p class="text-center color-red error-text"> This service is currently unavailable </p>
-<span class="htmlstyling__warning"> Classnames should be dashed. </span>
 ```
 
 ### Id's
 
-Id's and names are a little bit different from class names. They should be named with camel case format. There is two exceptions. Again like in class names, modular id's used in a shared javascript file should follow the format: `filename__camelCaseId`. Second exception is multiple id's under the same logic should have a tagname.
+Id's and names are a little bit different from class names. They should be named with camel case format. The only exception is multiple id's under the same logic should have a tagname.
 
 #### Examples:
 ```html
 <input id="thisIsAInput" type="text">
-<div id="pricing__realTimeGraph"></div>
 
 <div id="menuDiv">
 	<button id="menuTrigger"></button>
@@ -156,10 +154,6 @@ Please use new lines and tabs while creating new elements.
 	lorem ipsum sit dolor amet
 </p>
 ```
-
-### Not Using Unnecessary Attributes
-
-With HTML5, type attribute is optional. We prefer not to use it.
 
 ### What Next?
 [CSS Styling Guide](https://github.com/iyellc/styling/html-css/css.md)

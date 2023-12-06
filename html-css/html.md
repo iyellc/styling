@@ -145,7 +145,7 @@ Please use new lines and tabs while creating new elements.
 <!-- Use this -->
 <div>
     <ul>
-	<li>Item 1</li>
+		<li>Item 1</li>
         <li>Item 2</li>
     </ul>
 </div>

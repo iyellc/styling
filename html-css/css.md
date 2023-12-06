@@ -232,4 +232,4 @@ html {
 
 ### What Next?
 
-[HTML Styling Guide](https://github.com/iyellc/styling/html-css/html.md)
+[HTML Styling Guide](https://github.com/iyellc/styling/blob/main/html-css/html.md)

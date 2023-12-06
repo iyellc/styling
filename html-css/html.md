@@ -156,5 +156,5 @@ Please use new lines and tabs while creating new elements.
 ```
 
 ### What Next?
-[CSS Styling Guide](https://github.com/iyellc/styling/html-css/css.md)
+[CSS Styling Guide](https://github.com/iyellc/styling/blob/main/html-css/css.md)
 
